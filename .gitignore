@@ -4,5 +4,5 @@ __pycache__/
 .DS_Store
 
 # Training outputs and locally supplied dataset
-artifacts/
+
 data/
